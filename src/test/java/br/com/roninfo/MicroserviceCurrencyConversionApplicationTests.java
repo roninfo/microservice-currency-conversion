@@ -1,4 +1,4 @@
-package br.com.roninfo.microservicecurrencyconversion;
+package br.com.roninfo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

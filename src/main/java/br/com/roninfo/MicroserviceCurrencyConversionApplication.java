@@ -1,4 +1,4 @@
-package br.com.roninfo.microservicecurrencyconversion;
+package br.com.roninfo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
